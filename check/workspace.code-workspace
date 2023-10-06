@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "T05D08-1",
+			"path": "../T05D08-1"
+		},
+		{
+			"name": "T06D09-1",
+			"path": "../T06D09-1"
+		},
+		{
+			"name": "T07D10-1",
+			"path": "../T07D10-1"
+		},
+		{
+			"name": "P02D13-1",
+			"path": "../P02D13-1"
+		},
+		{
+			"name": "check",
+			"path": "."
+		},
+		{
+			"path": "../P03D20-1"
+		},
+		{
+			"path": "../T13D22-1"
+		}
+	],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"files.associations": {
+			"stdio.h": "c",
+			"__tuple": "c",
+			"array": "c",
+			"unistd.h": "c",
+			"sstream": "c"
+		}
+	}
+}
